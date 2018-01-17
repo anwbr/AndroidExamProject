@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988825529036",
+    "firebase_url": "https://androideatit-7e86c.firebaseio.com",
+    "project_id": "androideatit-7e86c",
+    "storage_bucket": "androideatit-7e86c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988825529036:android:b6b3224b4f126cef",
+        "android_client_info": {
+          "package_name": "com.example.honor.orderfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988825529036-mnsorhnmu5l5ltpvd6vi4b307osef8ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.honor.orderfoods",
+            "certificate_hash": "0776493c4c36bc9f96e1210768f5b5dcc38aa957"
+          }
+        },
+        {
+          "client_id": "988825529036-hsr0hopsbgj4fg6kapbenvcs24imiv72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JtSAThR5kjwCEzW_rHSp9Yvb1JnDiMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988825529036-hsr0hopsbgj4fg6kapbenvcs24imiv72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

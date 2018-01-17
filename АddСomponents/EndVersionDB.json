@@ -1,0 +1,72 @@
+{
+  "category" : {
+    "01" : {
+      "Image" : "https://i.pinimg.com/originals/ca/42/81/ca42818475dc3b69641d6bda0c53e158.jpg",
+      "Name" : "COMPUTERS"
+    },
+    "02" : {
+      "Image" : "https://www.ixbt.com/short/images/2017/Dec/Notebook-9-2018.jpg",
+      "Name" : "NOTEBOOKS"
+    },
+    "03" : {
+      "Image" : "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/104/10451/10451069.jpg",
+      "Name" : "TABLETS"
+    }
+  },
+  "user" : {
+    "0988123" : {
+      "name" : "Andrew",
+      "password" : "1234"
+    },
+    "+37666666666" : {
+      "name" : "Andrew",
+      "password" : "1234"
+    },
+    "375259168924" : {
+      "name" : "Andrew",
+      "password" : "3904"
+    }
+  },
+  "item": {
+    "01": {
+      "Name": "Компьютер базовый без монитора на базе процессора AMD C70",
+      "Image": "https://www.asus.com/media/global/products/0jdBZa4be9Gq77dO/P_setting_fff_1_90_end_500.png",
+      "Description": "AMD C-70/ 2 ядра по 1000 МГц/ DDR3 2GB/ 320GB HDD/ 400W",
+      "Price": "361.42",
+      "Discount": "0",
+      "CategoryId": "1"
+    },
+    "02": {
+      "Name": "Компьютер домашний без монитора на базе процессора AMD Athlon X2 220",
+      "Image": "https://www.asus.com/media/global/products/WXK0JagPhEm8GOYa/P_setting_fff_1_90_end_500.png",
+      "Description": "AMD C-70/ 2 ядра по 1000 МГц/ DDR3 4GB/ 320GB HDD/ 400W",
+      "Price": "406.88",
+      "Discount": "0",
+      "CategoryId": "1"
+    },
+    "03": {
+      "Name": "Ноутбук Irbis NB32",
+      "Image": "https://www.notebookcheck.net/uploads/tx_nbc2/gl552jx-cn029d_4_media_gallery_04.jpg",
+      "Description": "На клавиатуре есть кириллица (русские буквы). Z3735FB/11.6\" FHD/2GB/32GB SSD black",
+      "Price": "375",
+      "Discount": "0",
+      "CategoryId": "2"
+    },
+    "04": {
+      "Name": "Ноутбук Acer Aspire ES1-533-C2K6",
+      "Image": "http://edgeup.asus.com/wp-content/uploads/2017/01/kblnbguide-gl502lid.jpg",
+      "Description": "На клавиатуре есть кириллица (русские буквы). N3350/15\"/2G/500Gb/Linux",
+      "Price": "450",
+      "Discount": "0",
+      "CategoryId": "2"
+    },
+    "05": {
+      "Name": "Планшет Lenovo A7-10F",
+      "Image": "http://lenovomania.net/wp-content/uploads/534543.jpg",
+      "Description": "MT8127/1GB/8GB/Android 4.4",
+      "Price": "200",
+      "Discount": "0",
+      "CategoryId": "3"
+    }
+  }
+}

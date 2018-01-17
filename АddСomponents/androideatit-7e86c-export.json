@@ -1,0 +1,38 @@
+{
+  "category" : {
+    "01" : {
+      "Image" : "https://i.pinimg.com/originals/ca/42/81/ca42818475dc3b69641d6bda0c53e158.jpg",
+      "Name" : "COMPUTERS"
+    },
+    "02" : {
+      "Image" : "https://www.ixbt.com/short/images/2017/Dec/Notebook-9-2018.jpg",
+      "Name" : "NOTEBOOKS"
+    },
+    "03" : {
+      "Image" : "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/104/10451/10451069.jpg",
+      "Name" : "TABLETS"
+    },
+    "04" : {
+      "Image" : "http://www.bloglet.com/gallery/5-websites-with-pc-reviews-for-hardware-components/5-websites-with-pc-reviews-for-hardware-components.jpg",
+      "Name" : "COMPONENTS"
+    },
+    "05" : {
+      "Image" : "https://www.wired.com/images_blogs/gadgetlab/2009/06/txtr_reader_white.jpg",
+      "Name" : "ELECTRONIC BOOKS"
+    }
+  },
+  "user" : {
+    "0988123" : {
+      "name" : "Andrew",
+      "password" : "1234"
+    },
+    "+37666666666" : {
+      "name" : "Andrew",
+      "password" : "1234"
+    },
+    "375259168924" : {
+      "name" : "Andrew",
+      "password" : "3904"
+    }
+  }
+}

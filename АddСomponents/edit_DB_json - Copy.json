@@ -1,0 +1,24 @@
+{
+  "category": {
+    "01": {
+      "Name": "COMPUTERS",
+      "Image": "https://i.pinimg.com/originals/ca/42/81/ca42818475dc3b69641d6bda0c53e158.jpg"
+    },
+    "02": {
+      "Name": "NOTEBOOKS",
+      "Image": "https://www.ixbt.com/short/images/2017/Dec/Notebook-9-2018.jpg"
+    },
+    "03": {
+      "Name": "TABLETS",
+      "Image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/104/10451/10451069.jpg"
+    },
+    "04": {
+      "Name": "COMPONENTS",
+      "Image": "http://www.bloglet.com/gallery/5-websites-with-pc-reviews-for-hardware-components/5-websites-with-pc-reviews-for-hardware-components.jpg"
+    },
+    "05": {
+      "Name": "ELECTRONIC BOOKS",
+      "Image": "https://www.wired.com/images_blogs/gadgetlab/2009/06/txtr_reader_white.jpg"
+    }
+  }
+}
